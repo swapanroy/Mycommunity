@@ -12,11 +12,11 @@ The community-based approach to tackle issues of employment holistically utilizi
 ##### An inclusive ecosystem that promotes employment opportunities, coupled with the wellbeing of people with special needs. It includes sharing of job postings that specifically caters to their needs with how well their resume matches, In house and online training to upskill, career counselors and psychologist to share opportunities and show them the way forward.
 
 ## Basic Functionalities  
-### Profile 
-### Message（メッセージ受発信）
-### Job Search（求人情報掲示板）
-### Counseling（カウンセリング）
-### Event(Training)（イベント、研修）
+#### Profile 
+#### Message（メッセージ受発信）
+#### Job Search（求人情報掲示板）
+#### Counseling（カウンセリング）
+#### Event(Training)（イベント、研修）
 
 
  **Employment**  opportunities are driven by the Meta job search engine and jobs posted by the HR personnel. 
