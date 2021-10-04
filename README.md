@@ -54,6 +54,8 @@ The community-based approach to tackle issues of employment holistically utilizi
 
 [Figma](https://www.figma.com/proto/FTJp0yCuMG6tdpHVltCmEO/My-Community?node-id=107%3A1598&scaling=scale-down&page-id=0%3A1&starting-point-node-id=91%3A1225&show-proto-sidebar=1)
 
+![Resume Matching](https://user-images.githubusercontent.com/834120/135904822-5d5b0b30-4e35-4f7e-82c3-7d9bb2eea77e.GIF)
+
 
 [Problem Statement](https://github.com/swapanroy/Mycommunity/blob/main/README.md#problem-statement)  &nbsp; &nbsp;   [Pitch](https://github.com/swapanroy/Mycommunity/blob/main/README.md#pitch) 
 
