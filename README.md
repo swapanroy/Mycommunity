@@ -11,7 +11,7 @@ The community-based approach to tackle issues of employment holistically utilizi
 ## Concept: 
 ##### An inclusive ecosystem that promotes employment opportunities, coupled with the wellbeing of people with special needs. It includes sharing of job postings that specifically caters to their needs with how well their resume matches, In house and online training to upskill, career counselors and psychologist to share opportunities and show them the way forward.
 
-## Basic Functionalities  
+### Basic Functionalities  
 
 
 #### Employment/ Job Search（求人情報掲示板）
@@ -39,6 +39,6 @@ The community-based approach to tackle issues of employment holistically utilizi
 
 
 
-
+## Prototype
 
 
