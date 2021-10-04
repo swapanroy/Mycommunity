@@ -27,7 +27,8 @@ The community-based approach to tackle issues of employment holistically utilizi
   - The job description that HR personnel posts have information that asks for accommodation that the company would provide.
   - Job seekers can indicate their disability status, skills, and the range of activities they can do despite their disability, and the matching rate with the job is indicated by a score.
  
-![Rank and Location ](https://user-images.githubusercontent.com/834120/135884052-36593f37-a80c-4d17-8297-87fe37e133f8.png)
+![Rank and Location ](https://user-images.githubusercontent.com/834120/135905305-cc9226ec-c47c-4312-8034-df57cf836731.GIF)
+
 ![Job crawler](https://user-images.githubusercontent.com/834120/135885103-3ed8350f-0a68-4e9e-854c-34af494432db.gif)
 ![job poster screen](https://user-images.githubusercontent.com/834120/135901409-cce52232-54a0-4d5f-8c24-4ba709b43cad.GIF)
    &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; ![job poster screen 2](https://user-images.githubusercontent.com/834120/135901177-a94a64db-9feb-4eba-a625-3b538b96c8d1.GIF)
