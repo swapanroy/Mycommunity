@@ -1,6 +1,6 @@
    ## My Community
 
-[Prototype](https://github.com/swapanroy/Mycommunity/blob/main/README.md#prototype)
+[Problem Statement](https://github.com/swapanroy/Mycommunity/blob/main/README.md#problem-statement)  &nbsp; &nbsp;   [Pitch](https://github.com/swapanroy/Mycommunity/blob/main/README.md#pitch)     &nbsp;&nbsp;     [Prototype](https://github.com/swapanroy/Mycommunity/blob/main/README.md#prototype)
 
 ## Problem Statement: 
 People with special needs (with a disability), face challenges in getting the right job based on their desire or skillset and are relegated to work in a role that the society feels suits them.  
