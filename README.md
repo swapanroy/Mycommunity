@@ -7,7 +7,7 @@ One billion people, or 15% of the world’s population, experience some form of 
 People with special needs (with a disability), face socioeconomic  challenges including getting the right job based on their desire or skillset and are relegated to work in a role that the society feels suits them.  
 
 ## Pitch 
-The community-based approach to tackle issues of employment holistically utilizing technology and manual intervention. 
+An inclusive platform, which incorporates a metasearch engine, resume match, conducts training, shares resources for upskilling, and counseling and in-built messanger for communication. 
 
 ## Concept: 
 ##### An inclusive ecosystem that promotes employment opportunities, coupled with the wellbeing of people with special needs. It includes sharing of job postings that specifically caters to their needs with how well their resume matches, In house and online training to upskill, career counselors and psychologist to share opportunities and show them the way forward.
