@@ -24,18 +24,23 @@ An inclusive platform, which incorporates a metasearch engine, resume match, con
  **Employment**  opportunities are driven by the Meta job search engine and jobs posted by the HR personnel. 
 
   - The feature pulls data from employment websites and company sites. 
-  
-![Rank and Location ](https://user-images.githubusercontent.com/834120/135905305-cc9226ec-c47c-4312-8034-df57cf836731.GIF)
+
+![Job crawler](https://user-images.githubusercontent.com/834120/135885103-3ed8350f-0a68-4e9e-854c-34af494432db.gif)
+ 
   - The job description that HR personnel posts have information that asks for accommodation that the company would provide.
+![job poster screen](https://user-images.githubusercontent.com/834120/135901409-cce52232-54a0-4d5f-8c24-4ba709b43cad.GIF)
+ ![job poster screen 2](https://user-images.githubusercontent.com/834120/135901177-a94a64db-9feb-4eba-a625-3b538b96c8d1.GIF)
+
   - Job seekers can indicate their disability status, skills, and the range of activities they can do despite their disability, and the matching rate with the job is indicated by a score.
  
 
+![job filter](https://user-images.githubusercontent.com/834120/135908689-cdfe60a9-e764-4bb1-9588-e7f2513f1627.gif) 
+![Rank and Location ](https://user-images.githubusercontent.com/834120/135905305-cc9226ec-c47c-4312-8034-df57cf836731.GIF)
 
-![Job crawler](https://user-images.githubusercontent.com/834120/135885103-3ed8350f-0a68-4e9e-854c-34af494432db.gif)
-![job filter](https://user-images.githubusercontent.com/834120/135908689-cdfe60a9-e764-4bb1-9588-e7f2513f1627.gif)
 
-![job poster screen](https://user-images.githubusercontent.com/834120/135901409-cce52232-54a0-4d5f-8c24-4ba709b43cad.GIF)
- ![job poster screen 2](https://user-images.githubusercontent.com/834120/135901177-a94a64db-9feb-4eba-a625-3b538b96c8d1.GIF)
+
+
+
 
 **Counseling** - Driven by a ssion for wellbeing and being content 
   - The feature helps to connect qualified counselors to assist our members.
