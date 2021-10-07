@@ -71,8 +71,8 @@ An inclusive platform, which incorporates a metasearch engine, resume match, con
 
 #### [Get Distance](https://jsfiddle.net/roysw/64tcxmao/17/) (Click to see jsfiddle)
 
-<img src="https://user-images.githubusercontent.com/834120/136311576-e9adf7b8-4f2d-400d-9c30-2e6d6e9544d7.GIF" width="600" height="600">
-<img src="https://user-images.githubusercontent.com/834120/136311699-965920e6-07a7-46bb-8bae-5bd56223bb69.GIF" width="600" height="600">
+<img src="https://user-images.githubusercontent.com/834120/136311576-e9adf7b8-4f2d-400d-9c30-2e6d6e9544d7.GIF" width="900" height="600">
+<img src="https://user-images.githubusercontent.com/834120/136311699-965920e6-07a7-46bb-8bae-5bd56223bb69.GIF" width="900" height="600">
 
 
 
