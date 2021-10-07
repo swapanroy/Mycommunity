@@ -35,7 +35,8 @@ An inclusive platform, which incorporates a metasearch engine, resume match, con
  
 
 ![job filter](https://user-images.githubusercontent.com/834120/135908689-cdfe60a9-e764-4bb1-9588-e7f2513f1627.gif) 
-![Rank and Location ](https://user-images.githubusercontent.com/834120/135905305-cc9226ec-c47c-4312-8034-df57cf836731.GIF)
+![Rank and Location](https://user-images.githubusercontent.com/834120/136311907-a3acfd15-299d-48cd-98a0-989710dfadb4.GIF)
+
 
 
 
@@ -67,6 +68,12 @@ An inclusive platform, which incorporates a metasearch engine, resume match, con
 
 ### Output 
 ![Resume Matching](https://user-images.githubusercontent.com/834120/135904822-5d5b0b30-4e35-4f7e-82c3-7d9bb2eea77e.GIF)
+
+#### [Get Distance](https://jsfiddle.net/roysw/64tcxmao/17/) (Click to see jsfiddle)
+
+<img src="https://user-images.githubusercontent.com/834120/136311576-e9adf7b8-4f2d-400d-9c30-2e6d6e9544d7.GIF" width="400" height="450">
+<img src="https://user-images.githubusercontent.com/834120/136311699-965920e6-07a7-46bb-8bae-5bd56223bb69.GIF" width="400" height="450">
+
 
 
 [Problem Statement](https://github.com/swapanroy/Mycommunity/blob/main/README.md#problem-statement)  &nbsp; &nbsp;   [Pitch](https://github.com/swapanroy/Mycommunity/blob/main/README.md#pitch) 
