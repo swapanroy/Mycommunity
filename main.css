@@ -4,7 +4,7 @@
 @import "minima";
 
 .site-title::before {
-	content: url("/logo.jpg");
+	content: url("/Icon Accessibility (1).gif");
 	display: inline-block;
 	position: relative;
 	width: 37px;
